@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 277b664bec4184d4c99098fdb03c4aa8, type: 3}
+  m_Name: WorldMaps
+  m_EditorClassIdentifier: 
+  mapData:
+  - mainName: Picture_01
+    subName: Picture_01
+    bigMap: {fileID: 21300000, guid: 8b2dc7bff03d73645bcf8b11185bc9dd, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 2e85d19de32ae1c4db8e272a4f94b691, type: 3}
+  - mainName: Picture_02
+    subName: Picture_02
+    bigMap: {fileID: 21300000, guid: f12735bad3cce7148b33aefff0b7cd3c, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 305139db8a1bfee4db2e86a869440d21, type: 3}
+  - mainName: Picture_03
+    subName: Picture_03
+    bigMap: {fileID: 21300000, guid: aa80299d0922e7841a92223051c4ec53, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 9395e35261b2a2749b56e3015b88b4b7, type: 3}
+  - mainName: Picture_04
+    subName: Picture_04
+    bigMap: {fileID: 21300000, guid: fb3f4834f74fb6642a478e95206e3ea8, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 4496718316e21084886c5534d57617dd, type: 3}
+  - mainName: Picture_05
+    subName: Picture_05
+    bigMap: {fileID: 21300000, guid: 8441222dea24f03499e8fc22f732b82b, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 0806d1fd821fd3f43942426b779ab2c0, type: 3}
+  - mainName: Picture_06
+    subName: Picture_06
+    bigMap: {fileID: 21300000, guid: f2b57fcc58fc407488976b922f063e12, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 93694a370dcac5444a60f8c1ee647d0d, type: 3}
+  - mainName: Picture_07
+    subName: Picture_07
+    bigMap: {fileID: 21300000, guid: 5ee39086ac13ee04b918289473e249bd, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 821aec71b4cebfb4b9c83bc379b7f76e, type: 3}
+  - mainName: Picture_08
+    subName: Picture_08
+    bigMap: {fileID: 21300000, guid: cb6d50d5bde977040a1a2512bb05195c, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 937a7b903fcebc64193b67ba63c8634f, type: 3}
+  - mainName: Picture_09
+    subName: Picture_09
+    bigMap: {fileID: 21300000, guid: eb8fcd181f7e01a44a015fa83c5dc427, type: 3}
+    subBtnMap: {fileID: 21300000, guid: 504d44b126d2f5642a486c5eb7f5bdf3, type: 3}
